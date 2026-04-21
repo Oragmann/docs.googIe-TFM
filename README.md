@@ -19,7 +19,7 @@ La ingeniería social es el arte de manipular a las personas para que divulguen 
 Para que este experimento funcionara, he utilizado dos de los pilares más comunes en los ataques reales:
 
 1. **El Principio de Simpatía y Confianza:** Al ser tu amigo, tu cerebro baja las defensas. Un atacante real suele suplantar a alguien conocido (un jefe, un familiar o un amigo) para que no verifiques la URL.
-2. **El Principio de Urgencia:** Al decirte que "entrego el proyecto en los próximos días", he creado una presión externa que te empuja a actuar rápido sin pararte a analizar si el enlace era sospechoso.
+2. **El Principio de Urgencia:** Al decirte que "entrego el proyecto el viernes", he creado una presión externa que te empuja a actuar rápido sin pararte a analizar si el enlace era sospechoso.
 
 ---
 ### 🛡️ ¿Cómo protegerte en el futuro?
