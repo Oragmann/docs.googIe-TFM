@@ -1,6 +1,11 @@
 # ⚠️ ¡¡HAS SIDO VÍCTIMA DE UN SIMULACRO DE INGENIERÍA SOCIAL!!
 
-###  ¿Por qué estás viendo esto?
+> ### 🟢 MANTÉN LA CALMA: ESTO ES UN EXPERIMENTO SEGURO
+> **No te preocupes:** No has descargado ningún virus ni se ha comprometido tu seguridad. Estás en **GitHub.com**, una web legítima. Este enlace solo sirve para contabilizar cuántas personas hacían clic para mi **TFM de Ciberseguridad**. Tus datos y tu móvil están 100% protegidos.
+
+---
+
+### ¿Por qué estás viendo esto?
 Si has llegado hasta aquí, es porque has hecho clic en el enlace que te he enviado por WhatsApp. Este es un experimento real para mi **TFM de Ciberseguridad**. 
 
 No te preocupes: **tus datos están 100% a salvo**. No he recolectado ninguna información privada, solo he medido cuántas personas hacían clic en el enlace basándose en la confianza.
