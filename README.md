@@ -25,4 +25,4 @@ Para que este experimento funcionara, he utilizado dos de los pilares más comun
 ### Lección aprendida
 En un escenario real, este clic podría haber descargado un virus en tu móvil o robado tus credenciales. La ciberseguridad empieza por **desconfiar de los enlaces**, incluso si vienen de personas conocidas, especialmente si piden "ayuda urgente".
 
-*Para cualquier duda escribeme por privado para que el resto de compañeros también puedan pasar por el experimento sin saberlo.*
+*Si tienes cualquier duda o comentario sobre el ejercicio, escríbeme por privado para no dar pistas al resto de personas.*
